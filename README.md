@@ -82,9 +82,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken]
 ## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
 
 
-## Installation
-
-### Deploy to Heroku
+## Installati
 [![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tele-gram-bot/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
